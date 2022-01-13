@@ -1,12 +1,12 @@
 Package: DApers
-Title: What the Package Does (One Line, Title Case)
+Title: Paquetito Personal
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Daniel",
+           family = "Alessandrini",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "daniel.alessandrini@gmail.com",
+           comment = c(ORCID = "0000-0002-2936-003X"))
 Description: What the package does (one paragraph).
 License: What license it uses
 Encoding: UTF-8
