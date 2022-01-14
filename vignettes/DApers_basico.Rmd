@@ -1,0 +1,67 @@
+---
+title: "DApers_basico"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{DApers_basico}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+Te encajo acá los comandos básicos pa correr esto y verificar que ta too bien
+
+```{r setup}
+library(DApers)
+```
+
+## Paso 1 importo datos PREVIAMENTE MEJORADOS A MANO
+
+Ya te dije (pedazo de un vejiga) que _ANTES_ de hacer nada, tenés que agarrar el archivo con los datos en formato TT (generalmente guardado en tu cuenta de Drive) y 
+
++ Editar MANUALMENTE: 
+    + Abrir como texto: cambiar 'Diario,' por 'Diario,"' y 'Semanal,' por 'Semanal,"'; agregar lineas con Enter para COMMENTS (fijarse por linea si registro salta 1 linea p'adelante o no)
+    + Para cerrar ": ir a Buscar/Reemplazar: Buscar \n Reemplazar con "\n (NO clickear Expresion regular!!)
+    + Guardar con separador TAB (Save As >> Edit Filter settings)
++ Usar `{DApers}` para el resto (demora ~30m para archivo _anual_)
+
+
+## Paso 2 
+
+Uso `importar_tt()` para crear archivo limpio TT para seguir formateando
+
+```{r}
+tt20 <- importar_tt("../../../Casa/Personales/Personales/Vigente/Registros/tt2020_xiaomi_1703-3112_corregido.csv")
+#tt20 <- importar_tt("../../Casa/Personales/Personales/Vigente/Registros/tt2020_xiaomi_1703-3112_corregido.csv")
+head(tt20)
+```
+
+
+## Paso 3 
+
+Con archivo TT mejorado en R, hacer este paso previo a convertirlo a formato TS
+
+```{r}
+tt20ok <- hms_fch(tt20,formatoFecha='%d/%m/%y',formatoTS=2,exportar=FALSE) #'%d/%m/%Y'
+#head(tt20ok)
+```
+
+
+## Paso 4 
+
+Uso `etiq_rp()` para crear archivo TS (pronto para crear archivo *RP20xx*), levantando previamente las etiquetas vigentes para establecer equivalencia entre TS y TT
+
+```{r}
+etiq <- read.delim("../inst/extdata/RP_TablaEtiquetas_140122.csv")
+ts20 <- etiq_rp(tt20ok,tablaEtiq=etiq,nombre="rp2020nueva") 
+#Pa que veas como queda...
+head(ts20,n=20)
+
+```
+
+

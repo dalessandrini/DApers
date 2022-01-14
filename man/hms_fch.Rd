@@ -4,7 +4,7 @@
 \alias{hms_fch}
 \title{Equivalencia de fechas TS-TT}
 \usage{
-hms_fch(df_tt, formatoFecha = "\%d/\%m/\%y", formatoTS = 2, exportar = TRUE)
+hms_fch(df_tt, formatoFecha = "\%d/\%m/\%Y", formatoTS = 2, exportar = TRUE)
 }
 \arguments{
 \item{df_tt}{algo}

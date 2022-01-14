@@ -1,5 +1,5 @@
 Package: DApers
-Title: Paquetito Personal
+Title: Depura registros personales diarios
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Daniel",
@@ -13,6 +13,9 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
 Imports: 
-  utils
+    utils
 Suggests: 
-    testthat
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
