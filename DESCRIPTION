@@ -7,8 +7,12 @@ Authors@R:
            role = c("aut", "cre"),
            email = "daniel.alessandrini@gmail.com",
            comment = c(ORCID = "0000-0002-2936-003X"))
-Description: Me ayuda a mantenerme ordenado
+Description: Me ayuda a mantenerme ordenado.
 License: `use_mit_license()`
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
+Imports: 
+  utils
+Suggests: 
+    testthat

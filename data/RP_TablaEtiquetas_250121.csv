@@ -1,302 +1,302 @@
-TA	Actividad	Espacio	Sub-espacio	Sub - subespacio	Proyecto	Etiquetas	Descripción
-Q2	Docencia	UR_XXXX	Administrativos	Datos de Cursos	Docencia		
-Q2	Docencia	UR_XXXX	Administrativos	Gestion	Docencia		
-Q2	Docencia	UR_XXXX	Evaluaciones	Examen	Docencia		
-Q2	Docencia	UR_XXXX	Evaluaciones	Qs curso	Docencia		
-Q2	Docencia	UR_XXXX	Materiales	Curso 20xx	Docencia		
-Q2	Docencia	UR_XXXX	Materiales	Planificacion	Docencia		
-Q2	Docencia	UR_XXXX	Materiales	Clases	Docencia		
-Q2	Docencia	UR_XXXX	Plataforma Moodle	Consultas	Docencia		
-Q2	Docencia	UR_XXXX	Reuniones	Catedra	Docencia		
-Q2	Deporte	Individual	En casa	Ejercicios MECo	Deporte		
-Q2	Deporte	Individual	En casa	Anaerobicos	Deporte		
-Q2	Deporte	Individual	Corre-caminata	En compania	Deporte		
-Q2	Deporte	Individual	Corre-caminata	Solingen	Deporte		
-Q2	Deporte	Colectivo	(futbol,etc)		Deporte		
-Q2	Estudio	Metodos de Estudio	Practica semanal	Repaso y Actualizacion	Estudio-DME		
-Q2	Estudio	Metodos de Estudio	Concentracion	Ejercitacion	Estudio-DME		
-Q2	Estudio	Maestria	Administrativos		Estudio-Materias		
-Q2	Estudio	Maestria	(asignatura)	Implementacion informatica	Estudio-Materias		
-Q2	Estudio	Maestria	(asignatura)	Teorico	Estudio-Materias		
-Q2	Estudio	Maestria	(asignatura)	Trabajo Final	Estudio-Materias		
-Q2	Estudio	Maestria	(asignatura)	Practico	Estudio-Materias		
-Q2	Estudio	Maestria	(asignatura)	Clases	Estudio-Materias		
-Q2	Estudio	Maestria	ITM	Implementacion informatica	Estudio-Materias		
-Q2	Estudio	Maestria	ITM	Teorico	Estudio-Materias		
-Q2	Estudio	Maestria	ITM	Trabajo Final	Estudio-Materias		
-Q2	Estudio	Maestria	ITM	Practico	Estudio-Materias		
-Q2	Estudio	Maestria	ITM	Clases	Estudio-Materias	ESMA-ITM	
-Q2	Estudio	Maestria	Tesis	Lecturas	Estudio-Tesis		
-Q2	Estudio	Maestria	Tesis	Previa a Reuniones	Estudio-Tesis		
-Q2	Estudio	Maestria	Tesis	Reuniones	Estudio-Tesis	ESTE-Reu	
-Q2	Estudio	Maestria	Tesis	Administrativos	Estudio-Tesis	ESTE-Adm	
-Q2	Estudio	Maestria	Tesis	Implementacion informatica	Estudio-Tesis	ESIN-R.impl	
-Q2	Estudio	Maestria	Tesis	Presentaciones	Estudio-Tesis		
-Q2	Estudio	Maestria	Tesis	Bibliografia	Estudio-Tesis	ESTE-Bib	
-Q2	Estudio	Resto	Acumulado historico	Teorico-Practico	Estudio-Resto		
-Q2	Estudio	Resto	Concursos	Presentacion	Estudio-Resto		
-Q2	Estudio	Resto	Concursos	Administrativos	Estudio-Resto		
-Q2	Estudio	Resto	Datos_Abiertos	(proyecto)	Estudio-Resto	ESRE-DAb	
-Q2	Familia	CuidadosF	Salud	Ginecologia	Familia		
-Q2	Familia	CuidadosF	Salud	Clases de Parto	Familia		
-Q2	Familia	CuidadosF	Salud	Celulas madre	Familia		
-Q2	Familia	CuidadosF	Salud	Vacunaciones	Familia		
-Q2	Familia	CuidadosF	Salud	Especiales	Familia		
-Q2	Familia	CuidadosF	Salud	Pediatria	Familia		
-Q1	Familia	CuidadosF	Salud	Emergencia	Familia	FA-CuiF	
-Q2	Familia	CuidadosF	Salud	Pediatria	Familia		
-Q2	Familia	CuidadosF	Salud	Odontologia	Familia		
-Q2	Familia	CuidadosF	Salud	SegVial	Familia		
-Q1	Familia	CuidadosF	Salud	Farmacia	Familia		
-Q2	Familia	CuidadosF	Salud	ORL	Familia		
-Q1	Familia	CuidadosF	Salud	Internacion	Familia		
-Q2	Familia	DocumentacionF	Partida Nacimiento	Tramite	Familia		
-Q2	Familia	DocumentacionF	Cedula de Identidad	Previos	Familia		
-Q2	Familia	DocumentacionF	Cedula de Identidad	Tramite	Familia		
-Q2	Familia	DocumentacionF	Educativos	Reuniones	Familia	FA-DocF	
-Q2	Familia	DocumentacionF	Religiosos	Bautismo	Familia		
-Q2	Familia	DocumentacionF	Tramites	Varios	Familia		
-Q2	Familia	VidaenFlia	Paternidad	Tareas cotidianas	Familia	FA-VEFP	
-Q1	Familia	VidaenFlia	Eventos	Defunciones	Familia	FA-EveF	
-Q2	Familia	VidaenFlia	Eventos	Nacimientos	Familia		
-Q1	Familia	Apoyo Familiar	Logistica	Mudanzas	Familia	FA-ApyF	
-Q1	Familia	Apoyo Familiar	Logistica	Mantenimiento	Familia		
-Q2	Otros	Hogar	Auto	Accesorios	Otros-Hogar		
-Q2	Otros	Hogar	Auto	Busqueda	Otros-Hogar		
-Q2	Otros	Hogar	Auto	Combustible	Otros-Hogar	OH-Auto	
-Q2	Otros	Hogar	Auto	Compra-Adquisicion	Otros-Hogar		
-Q2	Otros	Hogar	Auto	Estacionamiento	Otros-Hogar		
-Q1	Otros	Hogar	Auto	Imprevistos	Otros-Hogar		
-Q2	Otros	Hogar	Auto	Mantenimiento	Otros-Hogar		
-Q2	Otros	Hogar	Auto	Obligaciones	Otros-Hogar		
-Q2	Otros	Hogar	Casa	Arbolito	Otros-Hogar		
-Q2	Otros	Hogar	Casa	Mantenimiento	Otros-Hogar		
-Q1	Otros	Hogar	Casa	Imprevistos	Otros-Hogar		
-Q2	Otros	Hogar	Cocina	Asistencia	Otros-Hogar	OH-Coci	
-Q2	Otros	Hogar	Compras	Alimentacion	Otros-Hogar		
-Q2	Otros	Hogar	Compras	Cosas de la casa	Otros-Hogar		
-Q2	Otros	Hogar	Compras	Energia	Otros-Hogar		
-Q2	Otros	Hogar	Compras	Feria	Otros-Hogar	OH-CoFe	
-Q2	Otros	Hogar	Compras	Orden	Otros-Hogar		
-Q2	Otros	Hogar	Compras	Regalos	Otros-Hogar		
-Q2	Otros	Hogar	Compras	Ropa	Otros-Hogar		
-Q2	Otros	Hogar	Compras	Salud-Higiene	Otros-Hogar		
-Q2	Otros	Hogar	Compras	Varios	Otros-Hogar		
-Q2	Otros	Hogar	Compras	Vestimenta	Otros-Hogar		
-Q2	Otros	Hogar	Cuentas	Gastos comunes	Otros-Hogar	OH-Ctas	
-Q2	Otros	Hogar	Cuentas	Orden papeles	Otros-Hogar		
-Q2	Otros	Hogar	Cuentas	Varios	Otros-Hogar		
-Q2	Otros	Hogar	Donaciones	Coordinacion	Otros-Hogar		
-Q2	Otros	Hogar	Donaciones	Retiro	Otros-Hogar		
-Q2	Otros	Hogar	Electrodomesticos	Consultas	Otros-Hogar		
-Q2	Otros	Hogar	Electrodomesticos	Compras	Otros-Hogar		
-Q2	Otros	Hogar	Electrodomesticos	Funcionamiento	Otros-Hogar		
-Q2	Otros	Hogar	Electrodomesticos	PC	Otros-Hogar		
-Q2	Otros	Hogar	Imprevistos	Reclamos	Otros-Hogar		
-Q2	Otros	Hogar	Imprevistos	Reparaciones	Otros-Hogar		
-Q2	Otros	Hogar	Imprevistos	Cambios	Otros-Hogar		
-Q2	Otros	Hogar	Limpieza	Externa	Otros-Hogar		
-Q2	Otros	Hogar	Limpieza	Orden cuartos	Otros-Hogar		
-Q2	Otros	Hogar	Limpieza	Sanitaria	Otros-Hogar		
-Q2	Otros	Hogar	Limpieza	Varios	Otros-Hogar	OH-Limp	
-Q2	Otros	Hogar	Limpieza	Vestimenta	Otros-Hogar	OH-LiLR	
-Q2	Otros	Hogar	Mandados	Cosas de la Casa	Otros-Hogar	OH-ObjC	
-Q2	Otros	Hogar	Mandados	General	Otros-Hogar	OH-Mand	
-Q2	Otros	Hogar	Mandados	Cambio $	Otros-Hogar		
-Q2	Otros	Hogar	Organizacion	Logistica	Otros-Hogar	OH-OrgL	
-Q2	Otros	Hogar	Pre-Lentij	Tareas en Cuotas (TeC)	Otros-Hogar		
-Q2	Otros	Personales	Compras	Alimentacion	Otros-Personales		
-Q2	Otros	Personales	Compras	Boletos	Otros-Personales		
-Q2	Otros	Personales	Compras	(otros)	Otros-Personales		
-Q2	Otros	Personales	Compras	Salud	Otros-Personales		
-Q2	Otros	Personales	Compras	Transporte	Otros-Personales		
-Q2	Otros	Personales	Compras	Varios	Otros-Personales	OP-Mand	
-Q2	Otros	Personales	Cuidado Personal	Afeitada	Otros-Personales		
-Q2	Otros	Personales	Cuidado Personal	Peluqueria	Otros-Personales		
-Q2	Otros	Personales	Cuidado Personal	Varios	Otros-Personales	OP-CuiP	
-Q2	Otros	Personales	Deberes civicos	Votaciones	Otros-Personales		
-Q2	Otros	Personales	Documentacion personal	Agenda	Otros-Personales	OP-Varios	
-Q2	Otros	Personales	Documentacion personal	Informes	Otros-Personales		
-Q2	Otros	Personales	Documentacion personal	Orden	Otros-Personales	OP-ObjP	
-Q2	Otros	Personales	Documentacion personal	Registro	Otros-Personales	OP-DocP	
-Q2	Otros	Personales	Documentacion personal	Scripting R	Otros-Personales		
-Q2	Otros	Personales	Pensamientos	Homo Nosce Te Ipsum	Otros-Personales	OP-HNTI	
-Q4	Otros	Personales	Planificacion	Ideas al futuro	Otros-Personales	OP-Plan	
-Q2	Otros	Personales	Planificacion	Mensual	Otros-Personales		
-Q2	Otros	Personales	Planificacion	Semestral	Otros-Personales		
-Q2	Otros	Personales	Salud	Examenes	Otros-Personales		
-Q2	Otros	Personales	Salud	Insumos	Otros-Personales		
-Q2	Otros	Personales	Salud	MediCont	Otros-Personales	OP-SaCt	
-Q2	Otros	Personales	Salud	Revision	Otros-Personales	OP-Salu	
-Q2	Otros	Personales	Tramites	Financieros	Otros-Personales		
-Q2	Otros	Personales	Tramites	Varios	Otros-Personales		
-Q2	Tiempo_Libre	En casa	Descanso	Siestas	Tiempo_Libre	TL-Siestas	
-Q4	Tiempo_Libre	En casa	Entretenimiento	RAP	Tiempo_Libre	TL-EC	
-Q4	Tiempo_Libre	En casa	Visitas	Amigos	Tiempo_Libre	TL-VisA	
-Q4	Tiempo_Libre	Fuera de casa	UEFI	RAP	Tiempo_Libre	TL-FdC	
-Q4	Tiempo_Libre	Fuera de casa	(lugar)	RAP	Tiempo_Libre		
-Q2	Tiempo_Libre	Otros	Imprevistos	Malestar	Tiempo_Libre		
-Q2	Tiempo_Libre	Otros	---		Tiempo_Libre	TL-Otr	
-Q2	Tiempo_Libre	Recreacion	ActLugAb	Paseos	Tiempo_Libre		
-Q2	Tiempo_Libre	Recreacion	ActLugAb	Compras	Tiempo_Libre		
-Q2	Tiempo_Libre	Recreacion	ActLugAb	Eventos	Tiempo_Libre		
-Q2	Tiempo_Libre	Recreacion	ActLugAb	Festejos	Tiempo_Libre		
-Q2	Tiempo_Libre	Recreacion	ActLugAb	Salidas	Tiempo_Libre	TL-Sali	
-Q2	Tiempo_Libre	Recreacion	ActLugAb	Varios	Tiempo_Libre		
-Q2	Tiempo_Libre	Recreacion	ActLugCerr	Eventos	Tiempo_Libre		
-Q2	Tiempo_Libre	Recreacion	ActLugCerr	Compras	Tiempo_Libre		
-Q4	Tiempo_Libre	Recreacion	ActLugCerr	RAP	Tiempo_Libre		
-Q4	Tiempo_Libre	Recreacion	ActLugCerr	Salidas	Tiempo_Libre		
-Q2	Tiempo_Libre	Recreacion	ActLugCerr	Varios	Tiempo_Libre		
-Q2	Tiempo_Libre	Reuniones	Amigos	Especiales	Tiempo_Libre	TL-ReAm	
-Q2	Tiempo_Libre	Reuniones	Amigos	DKO	Tiempo_Libre		
-Q2	Tiempo_Libre	Reuniones	Amigos	Cumpleaños	Tiempo_Libre		
-Q2	Tiempo_Libre	Reuniones	Amigos	Bienvenida Delfi	Tiempo_Libre		
-Q2	Tiempo_Libre	Reuniones	Amigos	Barra del Apuesto	Tiempo_Libre		
-Q2	Tiempo_Libre	Reuniones	Amigos	Casamiento	Tiempo_Libre		
-Q2	Tiempo_Libre	Reuniones	Familiares	Especiales	Tiempo_Libre		
-Q2	Tiempo_Libre	Reuniones	Familiares	Rutinarios	Tiempo_Libre	TL-ReFa	
-Q2	Tiempo_Libre	Viajes	(PAIS:Ciudad)	Preparacion	Tiempo_Libre		
-Q2	Tiempo_Libre	Viajes	(PAIS:Ciudad)	Traslados	Tiempo_Libre		
-Q2	Tiempo_Libre	Viajes	(PAIS:Ciudad)	Alojamiento	Tiempo_Libre		
-Q2	Tiempo_Libre	Viajes	(PAIS:Ciudad)	Paseos	Tiempo_Libre		
-Q2	Tiempo_Libre	Viajes	(PAIS:Ciudad)	Alimentacion	Tiempo_Libre	TL-Viaj	
-Q2	Tiempo_Libre	Viajes	(PAIS:Ciudad)	Siestas	Tiempo_Libre		
-Q2	Tiempo_Libre	Viajes	(PAIS:Ciudad)	Regreso	Tiempo_Libre		
-Q2	Tiempo_Libre	Viajes	(PAIS:Ciudad)	RAP	Tiempo_Libre		
-Q2	Trabajo	Asesoramiento	A4:Factum	Consultas	Trabajo-Asesoramiento	TRAS	
-Q2	Trabajo	Asesoramiento	A4:Factum	Materiales	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A4:Factum	Reuniones	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A4:Factum	Tareas realizadas	Trabajo-Asesoramiento		
-Q1	Trabajo	Asesoramiento	A4:Factum	Traspaso	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A5:audimu	Consultas	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A5:audimu	Materiales	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A5:audimu	Reuniones	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A5:audimu	Tareas realizadas	Trabajo-Asesoramiento		
-Q1	Trabajo	Asesoramiento	A5:audimu	Traspaso	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A6:GJa.Dr	Consultas	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A6:GJa.Dr	Materiales	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A6:GJa.Dr	Reuniones	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	A6:GJa.Dr	Tareas realizadas	Trabajo-Asesoramiento		
-Q1	Trabajo	Asesoramiento	A6:GJa.Dr	Traspaso	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	B1:@RISK	Consultas	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	B1:@RISK	Materiales	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	B1:@RISK	Reuniones	Trabajo-Asesoramiento		
-Q2	Trabajo	Asesoramiento	B1:@RISK	Tareas realizadas	Trabajo-Asesoramiento		
-Q1	Trabajo	Asesoramiento	B1:@RISK	Traspaso	Trabajo-Asesoramiento		
-Q2	Trabajo	FGR	EDU-CAR	Importacion SRI	Trabajo-FGR		
-Q2	Trabajo	FGR	EDU-CAR	Documentacion	Trabajo-FGR		
-Q2	Trabajo	FGR	FedEx-TE	Campo	Trabajo-FGR		
-Q2	Trabajo	FGR	FedEx-TE	Diseño	Trabajo-FGR		
-Q2	Trabajo	FGR	FedEx-TE	Documentacion	Trabajo-FGR		
-Q2	Trabajo	FGR	FedEx-TE	Informes	Trabajo-FGR		
-Q2	Trabajo	FGR	FedEx-TE	Procesamiento	Trabajo-FGR		
-Q2	Trabajo	FGR	FedEx-TE	Reuniones	Trabajo-FGR		
-Q2	Trabajo	FGR	Otros_FGR	Especiales	Trabajo-FGR		
-Q2	Trabajo	FGR	ACUy	Campo	Trabajo-FGR		
-Q2	Trabajo	FGR	ACUy	Diseño	Trabajo-FGR		
-Q2	Trabajo	FGR	ACUy	Documentacion	Trabajo-FGR	TRFG-ACUy	
-Q2	Trabajo	FGR	ACUy	Informes	Trabajo-FGR		
-Q2	Trabajo	FGR	ACUy	Procesamiento	Trabajo-FGR		
-Q2	Trabajo	FGR	ACUy	Reuniones	Trabajo-FGR		
-Q2	Trabajo	FGR	Observatorio-PW	Campo	Trabajo-FGR		
-Q2	Trabajo	FGR	Observatorio-PW	Diseño	Trabajo-FGR		
-Q2	Trabajo	FGR	Observatorio-PW	Documentacion	Trabajo-FGR	TRFG-PW	
-Q2	Trabajo	FGR	Observatorio-PW	Informes	Trabajo-FGR		
-Q2	Trabajo	FGR	Observatorio-PW	Procesamiento	Trabajo-FGR		
-Q2	Trabajo	FGR	Observatorio-PW	Reuniones	Trabajo-FGR		
-Q2	Trabajo	FGR	(proyecto)	Campo	Trabajo-FGR		
-Q2	Trabajo	FGR	(proyecto)	Diseño	Trabajo-FGR		
-Q2	Trabajo	FGR	(proyecto)	Documentacion	Trabajo-FGR		
-Q2	Trabajo	FGR	(proyecto)	Informes	Trabajo-FGR		
-Q2	Trabajo	FGR	(proyecto)	Procesamiento	Trabajo-FGR		
-Q2	Trabajo	FGR	(proyecto)	Reuniones	Trabajo-FGR		
-Q2	Trabajo	FGR	Planificacion	Documentacion	Trabajo-FGR		
-Q2	Trabajo	FGR	Planificacion	Preparacion Reuniones	Trabajo-FGR		
-Q2	Trabajo	FGR	Planificacion	Proyectos futuros	Trabajo-FGR		
-Q2	Trabajo	FGR	Planificacion	Reuniones	Trabajo-FGR		
-Q2	Trabajo	NoFacturable	SUE	Documentos	Trabajo-NoFacturable		
-Q2	Trabajo	NoFacturable	SUE	Reuniones	Trabajo-NoFacturable		
-Q2	Trabajo	NoFacturable	SUE	Cuota social	Trabajo-NoFacturable		
-Q2	Trabajo	NoFacturable	Llamados	Tramites	Trabajo-NoFacturable		
-Q2	Trabajo	NoFacturable	Llamados	Entrevistas	Trabajo-NoFacturable		
-Q2	Trabajo	NoFacturable	Grupos	GURU::mvd	Trabajo-NoFacturable	TNF-GURU	
-Q2	Trabajo	NoFacturable	DatosAbiertos	FISEVI	Trabajo-NoFacturable	TNF-DAb	
-Q2	Trabajo	NoFacturable	DatosAbiertos	(otros)	Trabajo-NoFacturable		
-Q2	Trabajo	NoFacturable	IPMC	AR02-ACUy	Trabajo-NoFacturable	TRNF	
-Q2	Trabajo	NoFacturable	IPMC	(otraInvest)	Trabajo-NoFacturable		
-Q2	Trabajo	NoFacturable	(otro)		Trabajo-NoFacturable		
-Q2	Trabajo	UEFI	0.Invest-HsMae	AER	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Bibliografia	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Administrativos	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Implementacion informatica	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Documentacion	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Cursos:BD	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Datos	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Teorico	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Motivacion	Trabajo-UEFI		
-Q4	Trabajo	UEFI	0.Invest-HsMae	PACT	Trabajo-UEFI		
-Q2	Trabajo	UEFI	0.Invest-HsMae	Varios	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Apoyo_UEFI	Ciclos UdelaR	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Apoyo_UEFI	Consultas Tecnicas	Trabajo-UEFI		
-Q1	Trabajo	UEFI	Apoyo_UEFI	ConsultaExpress	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Apoyo_UEFI	Congresos	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Apoyo_UEFI	Interaccion Externa	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Apoyo_UEFI	HDI	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Apoyo_UEFI	Desconocido	Trabajo-UEFI	TRUE-Ap	
-Q2	Trabajo	UEFI	Apoyo_UEFI	Logistica	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Apoyo_UEFI	Publicacion Externa	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Apoyo_UEFI	Reuniones	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Apoyo_UEFI	Moodle-EVAFIng	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Apoyo_UEFI	Reuniones	Trabajo-UEFI	TRUE-Re	
-Q3	Trabajo	UEFI	Apoyo_UEFI	Sistema Indicadores UdelaR	Trabajo-UEFI		
-Q1	Trabajo	UEFI	Apoyo_UEFI	Seguimiento PE	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Apoyo_UEFI	SGAE-SGB	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Apoyo_UEFI	SEDE	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Apoyo_UEFI	Trayectos Diferenciados	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Cursos	Defensa de Tesis	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Cursos	R basico	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Cursos	R multiuso UEFI	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Cursos	Moodle-EVAFIng	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Cursos	BD	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Cursos	Desconocido	Trabajo-UEFI	TRUE-Cu	
-Q2	Trabajo	UEFI	Gestion_U	Informes	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Gestion_U	Documentacion	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Gestion_U	Administrativos	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Gestion_U	Act/Instal SW	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Gestion_U	Planificacion	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Gestion_U	Reuniones	Trabajo-UEFI		
-Q3	Trabajo	UEFI	Gestion_U	Varios	Trabajo-UEFI	TRUE-Ge	
-Q2	Trabajo	UEFI	Investigacion	CEAM	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Investigacion	Formulario SocioEconomico (FSE)	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Investigacion	Egresados FIng	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Investigacion	Desconocido	Trabajo-UEFI	TRUE-In	
-Q2	Trabajo	UEFI	Investigacion	Tesis Maestria	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Investigacion	Horas para Maestria	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Investigacion	Publicacion EE	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Investigacion	Publicacion Externa	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Investigacion	Reuniones	Trabajo-UEFI		
-Q4	Trabajo	UEFI	Otros_U	Distension	Trabajo-UEFI	TRUE-Ot	
-Q1	Trabajo	UEFI	Otros_U	Deberes Civicos	Trabajo-UEFI		
-Q1	Trabajo	UEFI	Otros_U	Emergencias	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Otros_U	Fondo comun	Trabajo-UEFI		
-Q4	Trabajo	UEFI	Otros_U	Mandados	Trabajo-UEFI		
-Q2	Trabajo	UEFI	Otros_U	Limpieza	Trabajo-UEFI		
-Q2	Trabajo	UEFI	PL-Moebius	Reuniones	Trabajo-UEFI		
-Q3	Trabajo	UEFI	PL-Moebius	Datos	Trabajo-UEFI		
-Q2	Trabajo	UEFI	PL-Moebius	Desconocido	Trabajo-UEFI		
-Q2	Trabajo	UEFI	PL-Moebius	Informes	Trabajo-UEFI		
-Q2	Trabajo	UEFI	PL-Moebius	Documentacion	Trabajo-UEFI		
-Q2	Trabajo	UEFI	General	HorasTotales	Trabajo-UEFI	TRUE-Gral	
-Q2	Transporte	Traslado	Local	Auto Particular	Transporte	Trp-Priv	
-Q2	Transporte	Traslado	Local	Bus	Transporte	Trp-Bus	
-Q2	Transporte	Traslado	Local	Taxi	Transporte	Trp-Taxi	
-Q2	Transporte	Traslado	Local	Maritimo	Transporte		
-Q2	Transporte	Traslado	Larga Distancia	Bus	Transporte		
-Q2	Transporte	Traslado	Larga Distancia	Tren	Transporte		
-Q2	Transporte	Traslado	Larga Distancia	Aereo	Transporte		
-Q2	Transporte	Traslado	Larga Distancia	Maritimo	Transporte		
-Q2	Transporte	Traslado	Internacional	Maritimo	Transporte	Trp-Intl	
-Q2	Transporte	Traslado	Internacional	Bus	Transporte		
-Q2	Transporte	Traslado	Internacional	Tren	Transporte		
-Q2	Transporte	Traslado	Internacional	Aereo	Transporte		
+"TA"	"Actividad"	"Espacio"	"Sub-espacio"	"Sub - subespacio"	"Proyecto"	"Etiquetas"	"Descripcion"
+"Q2"	"Docencia"	"UR_XXXX"	"Administrativos"	"Datos de Cursos"	"Docencia"		
+"Q2"	"Docencia"	"UR_XXXX"	"Administrativos"	"Gestion"	"Docencia"		
+"Q2"	"Docencia"	"UR_XXXX"	"Evaluaciones"	"Examen"	"Docencia"		
+"Q2"	"Docencia"	"UR_XXXX"	"Evaluaciones"	"Qs curso"	"Docencia"		
+"Q2"	"Docencia"	"UR_XXXX"	"Materiales"	"Curso 20xx"	"Docencia"		
+"Q2"	"Docencia"	"UR_XXXX"	"Materiales"	"Planificacion"	"Docencia"		
+"Q2"	"Docencia"	"UR_XXXX"	"Materiales"	"Clases"	"Docencia"		
+"Q2"	"Docencia"	"UR_XXXX"	"Plataforma Moodle"	"Consultas"	"Docencia"		
+"Q2"	"Docencia"	"UR_XXXX"	"Reuniones"	"Catedra"	"Docencia"		
+"Q2"	"Deporte"	"Individual"	"En casa"	"Ejercicios MECo"	"Deporte"		
+"Q2"	"Deporte"	"Individual"	"En casa"	"Anaerobicos"	"Deporte"		
+"Q2"	"Deporte"	"Individual"	"Corre-caminata"	"En compania"	"Deporte"		
+"Q2"	"Deporte"	"Individual"	"Corre-caminata"	"Solingen"	"Deporte"		
+"Q2"	"Deporte"	"Colectivo"	"(futbol,etc)"		"Deporte"		
+"Q2"	"Estudio"	"Metodos de Estudio"	"Practica semanal"	"Repaso y Actualizacion"	"Estudio-DME"		
+"Q2"	"Estudio"	"Metodos de Estudio"	"Concentracion"	"Ejercitacion"	"Estudio-DME"		
+"Q2"	"Estudio"	"Maestria"	"Administrativos"		"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"(asignatura)"	"Implementacion informatica"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"(asignatura)"	"Teorico"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"(asignatura)"	"Trabajo Final"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"(asignatura)"	"Practico"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"(asignatura)"	"Clases"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"ITM"	"Implementacion informatica"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"ITM"	"Teorico"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"ITM"	"Trabajo Final"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"ITM"	"Practico"	"Estudio-Materias"		
+"Q2"	"Estudio"	"Maestria"	"ITM"	"Clases"	"Estudio-Materias"	"ESMA-ITM"	
+"Q2"	"Estudio"	"Maestria"	"Tesis"	"Lecturas"	"Estudio-Tesis"		
+"Q2"	"Estudio"	"Maestria"	"Tesis"	"Previa a Reuniones"	"Estudio-Tesis"		
+"Q2"	"Estudio"	"Maestria"	"Tesis"	"Reuniones"	"Estudio-Tesis"	"ESTE-Reu"	
+"Q2"	"Estudio"	"Maestria"	"Tesis"	"Administrativos"	"Estudio-Tesis"	"ESTE-Adm"	
+"Q2"	"Estudio"	"Maestria"	"Tesis"	"Implementacion informatica"	"Estudio-Tesis"	"ESIN-R.impl"	
+"Q2"	"Estudio"	"Maestria"	"Tesis"	"Presentaciones"	"Estudio-Tesis"		
+"Q2"	"Estudio"	"Maestria"	"Tesis"	"Bibliografia"	"Estudio-Tesis"	"ESTE-Bib"	
+"Q2"	"Estudio"	"Resto"	"Acumulado historico"	"Teorico-Practico"	"Estudio-Resto"		
+"Q2"	"Estudio"	"Resto"	"Concursos"	"Presentacion"	"Estudio-Resto"		
+"Q2"	"Estudio"	"Resto"	"Concursos"	"Administrativos"	"Estudio-Resto"		
+"Q2"	"Estudio"	"Resto"	"Datos_Abiertos"	"(proyecto)"	"Estudio-Resto"	"ESRE-DAb"	
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"Ginecologia"	"Familia"		
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"Clases de Parto"	"Familia"		
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"Celulas madre"	"Familia"		
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"Vacunaciones"	"Familia"		
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"Especiales"	"Familia"		
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"Pediatria"	"Familia"		
+"Q1"	"Familia"	"CuidadosF"	"Salud"	"Emergencia"	"Familia"	"FA-CuiF"	
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"Pediatria"	"Familia"		
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"Odontologia"	"Familia"		
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"SegVial"	"Familia"		
+"Q1"	"Familia"	"CuidadosF"	"Salud"	"Farmacia"	"Familia"		
+"Q2"	"Familia"	"CuidadosF"	"Salud"	"ORL"	"Familia"		
+"Q1"	"Familia"	"CuidadosF"	"Salud"	"Internacion"	"Familia"		
+"Q2"	"Familia"	"DocumentacionF"	"Partida Nacimiento"	"Tramite"	"Familia"		
+"Q2"	"Familia"	"DocumentacionF"	"Cedula de Identidad"	"Previos"	"Familia"		
+"Q2"	"Familia"	"DocumentacionF"	"Cedula de Identidad"	"Tramite"	"Familia"		
+"Q2"	"Familia"	"DocumentacionF"	"Educativos"	"Reuniones"	"Familia"	"FA-DocF"	
+"Q2"	"Familia"	"DocumentacionF"	"Religiosos"	"Bautismo"	"Familia"		
+"Q2"	"Familia"	"DocumentacionF"	"Tramites"	"Varios"	"Familia"		
+"Q2"	"Familia"	"VidaenFlia"	"Paternidad"	"Tareas cotidianas"	"Familia"	"FA-VEFP"	
+"Q1"	"Familia"	"VidaenFlia"	"Eventos"	"Defunciones"	"Familia"	"FA-EveF"	
+"Q2"	"Familia"	"VidaenFlia"	"Eventos"	"Nacimientos"	"Familia"		
+"Q1"	"Familia"	"Apoyo Familiar"	"Logistica"	"Mudanzas"	"Familia"	"FA-ApyF"	
+"Q1"	"Familia"	"Apoyo Familiar"	"Logistica"	"Mantenimiento"	"Familia"		
+"Q2"	"Otros"	"Hogar"	"Auto"	"Accesorios"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Auto"	"Busqueda"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Auto"	"Combustible"	"Otros-Hogar"	"OH-Auto"	
+"Q2"	"Otros"	"Hogar"	"Auto"	"Compra-Adquisicion"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Auto"	"Estacionamiento"	"Otros-Hogar"		
+"Q1"	"Otros"	"Hogar"	"Auto"	"Imprevistos"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Auto"	"Mantenimiento"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Auto"	"Obligaciones"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Casa"	"Arbolito"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Casa"	"Mantenimiento"	"Otros-Hogar"		
+"Q1"	"Otros"	"Hogar"	"Casa"	"Imprevistos"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Cocina"	"Asistencia"	"Otros-Hogar"	"OH-Coci"	
+"Q2"	"Otros"	"Hogar"	"Compras"	"Alimentacion"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Compras"	"Cosas de la casa"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Compras"	"Energia"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Compras"	"Feria"	"Otros-Hogar"	"OH-CoFe"	
+"Q2"	"Otros"	"Hogar"	"Compras"	"Orden"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Compras"	"Regalos"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Compras"	"Ropa"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Compras"	"Salud-Higiene"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Compras"	"Varios"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Compras"	"Vestimenta"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Cuentas"	"Gastos comunes"	"Otros-Hogar"	"OH-Ctas"	
+"Q2"	"Otros"	"Hogar"	"Cuentas"	"Orden papeles"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Cuentas"	"Varios"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Donaciones"	"Coordinacion"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Donaciones"	"Retiro"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Electrodomesticos"	"Consultas"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Electrodomesticos"	"Compras"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Electrodomesticos"	"Funcionamiento"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Electrodomesticos"	"PC"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Imprevistos"	"Reclamos"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Imprevistos"	"Reparaciones"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Imprevistos"	"Cambios"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Limpieza"	"Externa"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Limpieza"	"Orden cuartos"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Limpieza"	"Sanitaria"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Limpieza"	"Varios"	"Otros-Hogar"	"OH-Limp"	
+"Q2"	"Otros"	"Hogar"	"Limpieza"	"Vestimenta"	"Otros-Hogar"	"OH-LiLR"	
+"Q2"	"Otros"	"Hogar"	"Mandados"	"Cosas de la Casa"	"Otros-Hogar"	"OH-ObjC"	
+"Q2"	"Otros"	"Hogar"	"Mandados"	"General"	"Otros-Hogar"	"OH-Mand"	
+"Q2"	"Otros"	"Hogar"	"Mandados"	"Cambio $"	"Otros-Hogar"		
+"Q2"	"Otros"	"Hogar"	"Organizacion"	"Logistica"	"Otros-Hogar"	"OH-OrgL"	
+"Q2"	"Otros"	"Hogar"	"Pre-Lentij"	"Tareas en Cuotas (TeC)"	"Otros-Hogar"		
+"Q2"	"Otros"	"Personales"	"Compras"	"Alimentacion"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Compras"	"Boletos"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Compras"	"(otros)"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Compras"	"Salud"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Compras"	"Transporte"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Compras"	"Varios"	"Otros-Personales"	"OP-Mand"	
+"Q2"	"Otros"	"Personales"	"Cuidado Personal"	"Afeitada"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Cuidado Personal"	"Peluqueria"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Cuidado Personal"	"Varios"	"Otros-Personales"	"OP-CuiP"	
+"Q2"	"Otros"	"Personales"	"Deberes civicos"	"Votaciones"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Documentacion personal"	"Agenda"	"Otros-Personales"	"OP-Varios"	
+"Q2"	"Otros"	"Personales"	"Documentacion personal"	"Informes"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Documentacion personal"	"Orden"	"Otros-Personales"	"OP-ObjP"	
+"Q2"	"Otros"	"Personales"	"Documentacion personal"	"Registro"	"Otros-Personales"	"OP-DocP"	
+"Q2"	"Otros"	"Personales"	"Documentacion personal"	"Scripting R"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Pensamientos"	"Homo Nosce Te Ipsum"	"Otros-Personales"	"OP-HNTI"	
+"Q4"	"Otros"	"Personales"	"Planificacion"	"Ideas al futuro"	"Otros-Personales"	"OP-Plan"	
+"Q2"	"Otros"	"Personales"	"Planificacion"	"Mensual"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Planificacion"	"Semestral"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Salud"	"Examenes"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Salud"	"Insumos"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Salud"	"MediCont"	"Otros-Personales"	"OP-SaCt"	
+"Q2"	"Otros"	"Personales"	"Salud"	"Revision"	"Otros-Personales"	"OP-Salu"	
+"Q2"	"Otros"	"Personales"	"Tramites"	"Financieros"	"Otros-Personales"		
+"Q2"	"Otros"	"Personales"	"Tramites"	"Varios"	"Otros-Personales"		
+"Q2"	"Tiempo_Libre"	"En casa"	"Descanso"	"Siestas"	"Tiempo_Libre"	"TL-Siestas"	
+"Q4"	"Tiempo_Libre"	"En casa"	"Entretenimiento"	"RAP"	"Tiempo_Libre"	"TL-EC"	
+"Q4"	"Tiempo_Libre"	"En casa"	"Visitas"	"Amigos"	"Tiempo_Libre"	"TL-VisA"	
+"Q4"	"Tiempo_Libre"	"Fuera de casa"	"UEFI"	"RAP"	"Tiempo_Libre"	"TL-FdC"	
+"Q4"	"Tiempo_Libre"	"Fuera de casa"	"(lugar)"	"RAP"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Otros"	"Imprevistos"	"Malestar"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Otros"	"---"		"Tiempo_Libre"	"TL-Otr"	
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugAb"	"Paseos"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugAb"	"Compras"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugAb"	"Eventos"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugAb"	"Festejos"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugAb"	"Salidas"	"Tiempo_Libre"	"TL-Sali"	
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugAb"	"Varios"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugCerr"	"Eventos"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugCerr"	"Compras"	"Tiempo_Libre"		
+"Q4"	"Tiempo_Libre"	"Recreacion"	"ActLugCerr"	"RAP"	"Tiempo_Libre"		
+"Q4"	"Tiempo_Libre"	"Recreacion"	"ActLugCerr"	"Salidas"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Recreacion"	"ActLugCerr"	"Varios"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Reuniones"	"Amigos"	"Especiales"	"Tiempo_Libre"	"TL-ReAm"	
+"Q2"	"Tiempo_Libre"	"Reuniones"	"Amigos"	"DKO"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Reuniones"	"Amigos"	"Cumplea\u00F1os"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Reuniones"	"Amigos"	"Bienvenida Delfi"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Reuniones"	"Amigos"	"Barra del Apuesto"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Reuniones"	"Amigos"	"Casamiento"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Reuniones"	"Familiares"	"Especiales"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Reuniones"	"Familiares"	"Rutinarios"	"Tiempo_Libre"	"TL-ReFa"	
+"Q2"	"Tiempo_Libre"	"Viajes"	"(PAIS:Ciudad)"	"Preparacion"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Viajes"	"(PAIS:Ciudad)"	"Traslados"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Viajes"	"(PAIS:Ciudad)"	"Alojamiento"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Viajes"	"(PAIS:Ciudad)"	"Paseos"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Viajes"	"(PAIS:Ciudad)"	"Alimentacion"	"Tiempo_Libre"	"TL-Viaj"	
+"Q2"	"Tiempo_Libre"	"Viajes"	"(PAIS:Ciudad)"	"Siestas"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Viajes"	"(PAIS:Ciudad)"	"Regreso"	"Tiempo_Libre"		
+"Q2"	"Tiempo_Libre"	"Viajes"	"(PAIS:Ciudad)"	"RAP"	"Tiempo_Libre"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A4:Factum"	"Consultas"	"Trabajo-Asesoramiento"	"TRAS"	
+"Q2"	"Trabajo"	"Asesoramiento"	"A4:Factum"	"Materiales"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A4:Factum"	"Reuniones"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A4:Factum"	"Tareas realizadas"	"Trabajo-Asesoramiento"		
+"Q1"	"Trabajo"	"Asesoramiento"	"A4:Factum"	"Traspaso"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A5:audimu"	"Consultas"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A5:audimu"	"Materiales"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A5:audimu"	"Reuniones"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A5:audimu"	"Tareas realizadas"	"Trabajo-Asesoramiento"		
+"Q1"	"Trabajo"	"Asesoramiento"	"A5:audimu"	"Traspaso"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A6:GJa.Dr"	"Consultas"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A6:GJa.Dr"	"Materiales"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A6:GJa.Dr"	"Reuniones"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"A6:GJa.Dr"	"Tareas realizadas"	"Trabajo-Asesoramiento"		
+"Q1"	"Trabajo"	"Asesoramiento"	"A6:GJa.Dr"	"Traspaso"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"B1:@RISK"	"Consultas"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"B1:@RISK"	"Materiales"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"B1:@RISK"	"Reuniones"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"Asesoramiento"	"B1:@RISK"	"Tareas realizadas"	"Trabajo-Asesoramiento"		
+"Q1"	"Trabajo"	"Asesoramiento"	"B1:@RISK"	"Traspaso"	"Trabajo-Asesoramiento"		
+"Q2"	"Trabajo"	"FGR"	"EDU-CAR"	"Importacion SRI"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"EDU-CAR"	"Documentacion"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"FedEx-TE"	"Campo"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"FedEx-TE"	"Dise\u00F1o"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"FedEx-TE"	"Documentacion"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"FedEx-TE"	"Informes"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"FedEx-TE"	"Procesamiento"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"FedEx-TE"	"Reuniones"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Otros_FGR"	"Especiales"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"ACUy"	"Campo"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"ACUy"	"Dise\u00F1o"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"ACUy"	"Documentacion"	"Trabajo-FGR"	"TRFG-ACUy"	
+"Q2"	"Trabajo"	"FGR"	"ACUy"	"Informes"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"ACUy"	"Procesamiento"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"ACUy"	"Reuniones"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Observatorio-PW"	"Campo"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Observatorio-PW"	"Dise\u00F1o"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Observatorio-PW"	"Documentacion"	"Trabajo-FGR"	"TRFG-PW"	
+"Q2"	"Trabajo"	"FGR"	"Observatorio-PW"	"Informes"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Observatorio-PW"	"Procesamiento"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Observatorio-PW"	"Reuniones"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"(proyecto)"	"Campo"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"(proyecto)"	"Dise\u00F1o"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"(proyecto)"	"Documentacion"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"(proyecto)"	"Informes"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"(proyecto)"	"Procesamiento"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"(proyecto)"	"Reuniones"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Planificacion"	"Documentacion"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Planificacion"	"Preparacion Reuniones"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Planificacion"	"Proyectos futuros"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"FGR"	"Planificacion"	"Reuniones"	"Trabajo-FGR"		
+"Q2"	"Trabajo"	"NoFacturable"	"SUE"	"Documentos"	"Trabajo-NoFacturable"		
+"Q2"	"Trabajo"	"NoFacturable"	"SUE"	"Reuniones"	"Trabajo-NoFacturable"		
+"Q2"	"Trabajo"	"NoFacturable"	"SUE"	"Cuota social"	"Trabajo-NoFacturable"		
+"Q2"	"Trabajo"	"NoFacturable"	"Llamados"	"Tramites"	"Trabajo-NoFacturable"		
+"Q2"	"Trabajo"	"NoFacturable"	"Llamados"	"Entrevistas"	"Trabajo-NoFacturable"		
+"Q2"	"Trabajo"	"NoFacturable"	"Grupos"	"GURU::mvd"	"Trabajo-NoFacturable"	"TNF-GURU"	
+"Q2"	"Trabajo"	"NoFacturable"	"DatosAbiertos"	"FISEVI"	"Trabajo-NoFacturable"	"TNF-DAb"	
+"Q2"	"Trabajo"	"NoFacturable"	"DatosAbiertos"	"(otros)"	"Trabajo-NoFacturable"		
+"Q2"	"Trabajo"	"NoFacturable"	"IPMC"	"AR02-ACUy"	"Trabajo-NoFacturable"	"TRNF"	
+"Q2"	"Trabajo"	"NoFacturable"	"IPMC"	"(otraInvest)"	"Trabajo-NoFacturable"		
+"Q2"	"Trabajo"	"NoFacturable"	"(otro)"		"Trabajo-NoFacturable"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"AER"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Bibliografia"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Administrativos"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Implementacion informatica"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Documentacion"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Cursos:BD"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Datos"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Teorico"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Motivacion"	"Trabajo-UEFI"		
+"Q4"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"PACT"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"0.Invest-HsMae"	"Varios"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Ciclos UdelaR"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Consultas Tecnicas"	"Trabajo-UEFI"		
+"Q1"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"ConsultaExpress"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Congresos"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Interaccion Externa"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"HDI"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Desconocido"	"Trabajo-UEFI"	"TRUE-Ap"	
+"Q2"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Logistica"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Publicacion Externa"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Reuniones"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Moodle-EVAFIng"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Reuniones"	"Trabajo-UEFI"	"TRUE-Re"	
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Sistema Indicadores UdelaR"	"Trabajo-UEFI"		
+"Q1"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Seguimiento PE"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"SGAE-SGB"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"SEDE"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Apoyo_UEFI"	"Trayectos Diferenciados"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Cursos"	"Defensa de Tesis"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Cursos"	"R basico"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Cursos"	"R multiuso UEFI"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Cursos"	"Moodle-EVAFIng"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Cursos"	"BD"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Cursos"	"Desconocido"	"Trabajo-UEFI"	"TRUE-Cu"	
+"Q2"	"Trabajo"	"UEFI"	"Gestion_U"	"Informes"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Gestion_U"	"Documentacion"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Gestion_U"	"Administrativos"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Gestion_U"	"Act/Instal SW"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Gestion_U"	"Planificacion"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Gestion_U"	"Reuniones"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"Gestion_U"	"Varios"	"Trabajo-UEFI"	"TRUE-Ge"	
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"CEAM"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"Formulario SocioEconomico (FSE)"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"Egresados FIng"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"Desconocido"	"Trabajo-UEFI"	"TRUE-In"	
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"Tesis Maestria"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"Horas para Maestria"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"Publicacion EE"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"Publicacion Externa"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Investigacion"	"Reuniones"	"Trabajo-UEFI"		
+"Q4"	"Trabajo"	"UEFI"	"Otros_U"	"Distension"	"Trabajo-UEFI"	"TRUE-Ot"	
+"Q1"	"Trabajo"	"UEFI"	"Otros_U"	"Deberes Civicos"	"Trabajo-UEFI"		
+"Q1"	"Trabajo"	"UEFI"	"Otros_U"	"Emergencias"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Otros_U"	"Fondo comun"	"Trabajo-UEFI"		
+"Q4"	"Trabajo"	"UEFI"	"Otros_U"	"Mandados"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"Otros_U"	"Limpieza"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"PL-Moebius"	"Reuniones"	"Trabajo-UEFI"		
+"Q3"	"Trabajo"	"UEFI"	"PL-Moebius"	"Datos"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"PL-Moebius"	"Desconocido"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"PL-Moebius"	"Informes"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"PL-Moebius"	"Documentacion"	"Trabajo-UEFI"		
+"Q2"	"Trabajo"	"UEFI"	"General"	"HorasTotales"	"Trabajo-UEFI"	"TRUE-Gral"	
+"Q2"	"Transporte"	"Traslado"	"Local"	"Auto Particular"	"Transporte"	"Trp-Priv"	
+"Q2"	"Transporte"	"Traslado"	"Local"	"Bus"	"Transporte"	"Trp-Bus"	
+"Q2"	"Transporte"	"Traslado"	"Local"	"Taxi"	"Transporte"	"Trp-Taxi"	
+"Q2"	"Transporte"	"Traslado"	"Local"	"Maritimo"	"Transporte"		
+"Q2"	"Transporte"	"Traslado"	"Larga Distancia"	"Bus"	"Transporte"		
+"Q2"	"Transporte"	"Traslado"	"Larga Distancia"	"Tren"	"Transporte"		
+"Q2"	"Transporte"	"Traslado"	"Larga Distancia"	"Aereo"	"Transporte"		
+"Q2"	"Transporte"	"Traslado"	"Larga Distancia"	"Maritimo"	"Transporte"		
+"Q2"	"Transporte"	"Traslado"	"Internacional"	"Maritimo"	"Transporte"	"Trp-Intl"	
+"Q2"	"Transporte"	"Traslado"	"Internacional"	"Bus"	"Transporte"		
+"Q2"	"Transporte"	"Traslado"	"Internacional"	"Tren"	"Transporte"		
+"Q2"	"Transporte"	"Traslado"	"Internacional"	"Aereo"	"Transporte"		
