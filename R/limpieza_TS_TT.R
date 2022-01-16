@@ -21,7 +21,7 @@
 importar_tt <- function(archivo_csv,...){
   #unit_testing DE ENTRADA!!
   #Instructivo claro
-  tt <- readLines(archivo_csv)
+  tt <- readLines(archivo_csv,...)
   split <- strsplit(tt,split="\t",fixed=TRUE)
   df_tt <- as.data.frame(do.call("rbind",lapply(split,"[",1:8)),stringsAsFactors=FALSE)
   df_tt$V9 <- lapply(split,"[",-(1:8))
@@ -61,9 +61,17 @@ hms_fch <- function(df_tt,formatoFecha='%d/%m/%Y',formatoTS=2,exportar=TRUE){
   #b1 <- data.frame(t(data.frame(strsplit(x=as.character(a$DURATION),split=":")))) #cambiado 08/01/21
   b1 <- data.frame(Reduce(rbind,strsplit(x=as.character(a$DURATION),split=":")))
   colnames(b1) <- c("H","M","S")
-  scomplem <- ifelse(as.numeric(b1$S)-1<=30,0,1)
-  b1$msdec <- round(((as.numeric(b1$M)-1)+scomplem)/60,2)
-  b1$hmsdec <- (as.numeric(b1$H)-1) + b1$msdec
+  #(16/06/22)Agregamos por comportamiento diferente en Linux vs Windows
+  if(.Platform$OS.type=="linux"){#como ants
+    scomplem <- ifelse(as.numeric(b1$S)-1<=30,0,1)
+    b1$msdec <- round(((as.numeric(b1$M)-1)+scomplem)/60,2)
+    b1$hmsdec <- (as.numeric(b1$H)-1) + b1$msdec
+  }
+  if(.Platform$OS.type=="windows"){#windows resta 1h 1m a cada registro
+    scomplem <- ifelse(as.numeric(b1$S)<=30,0,1)
+    b1$msdec <- round(((as.numeric(b1$M))+scomplem)/60,2)
+    b1$hmsdec <- (as.numeric(b1$H)) + b1$msdec
+  }
   a$DURATIONdec <- b1$hmsdec #col09
   # Parte 2: Funcion 'fch': entra df TT, sale df TT+ columnas 'Fch','coment_hm' con fecha de inicio y horas como etiqueta en comentarios
   #Version actual (>2019): '%d/%m/%y'; version anterior (<2019): '%d %b. %Y'
@@ -146,30 +154,32 @@ etiq_rp <- function(datos,tablaEtiq,nombre="",exportar=TRUE){
   fch <- strftime(rp2$Fch)
   #Mes
   ms <- strftime(fch,format='%b')
-  rp2$Mes <- ifelse(ms=="ene","A.Ene",
-              ifelse(ms=="feb","B.Feb",
-              ifelse(ms=="mar","C.Mar",
-              ifelse(ms=="abr","D.Abr",
-              ifelse(ms=="may","E.May",
-              ifelse(ms=="jun","F.Jun",
-              ifelse(ms=="jul","G.Jul",
-              ifelse(ms=="ago","H.Ago",
-              ifelse(ms %in% c("set","sep","sept"),"I.Set", #OJO con el LOCALE (si es UY es SETiembre!!)
-              ifelse(ms=="oct","J.Oct",
-              ifelse(ms=="nov","K.Nov",
-              ifelse(ms=="dic","L.Dic",NA))))))))))))
+  rp2$Mes <- ifelse(ms %in% c("ene","Ene","ene.","Ene."),"A.Ene",
+             ifelse(ms %in% c("feb","Feb","feb.","Feb."),"B.Feb",
+             ifelse(ms %in% c("mar","Mar","mar.","Mar."),"C.Mar",
+             ifelse(ms %in% c("abr","Abr","abr.","Abr."),"D.Abr",
+             ifelse(ms %in% c("may","May","may.","May."),"E.May",
+             ifelse(ms %in% c("jun","Jun","jun.","Jun."),"F.Jun",
+             ifelse(ms %in% c("jul","Jul","jul.","Jul."),"G.Jul",
+             ifelse(ms %in% c("ago","Ago","ago.","Ago."),"H.Ago",
+             ifelse(ms %in% c("set","sep","sept","Set",
+                              "Sep","Sept","set.","sep.",
+                              "sept.","Set.","Sep.","Sept."),"I.Set", #OJO con el LOCALE (si es UY es SETiembre!!)
+             ifelse(ms %in% c("oct","Oct","oct.","Oct."),"J.Oct",
+             ifelse(ms %in% c("nov","Nov","nov.","Nov."),"K.Nov",
+             ifelse(ms %in% c("dic","Dic","dic.","Dic."),"L.Dic",NA))))))))))))
   #Semana
   sm <- as.numeric(strftime(fch,format='%U'))
   rp2$Semana <- ifelse(sm<9,paste0("Sem0",sm+1),paste0("Sem",sm+1)) #valido pa 2018 (en 2017 sacar el '+1')
   #DdS
   dd <- strftime(fch,format='%a')
-  rp2$DdS <- ifelse(dd=="dom","a.dom",
-              ifelse(dd=="lun","b.lun",
-              ifelse(dd=="mar","c.mar",
-              ifelse(dd=="mi\u00E9","d.mie",
-              ifelse(dd=="jue","e.jue",
-              ifelse(dd=="vie","f.vie",
-              ifelse(dd=="s\u00E1b","g.sab",NA)))))))
+  rp2$DdS <- ifelse(dd %in% c("dom","dom."),"a.dom",
+              ifelse(dd %in% c("lun","lun."),"b.lun",
+              ifelse(dd %in% c("mar","mar."),"c.mar",
+              ifelse(dd %in% c("mi\u00E9","mi\u00E9."),"d.mie",
+              ifelse(dd %in% c("jue","jue."),"e.jue",
+              ifelse(dd %in% c("vie","vie."),"f.vie",
+              ifelse(dd %in% c("s\u00E1b","s\u00E1b."),"g.sab",NA)))))))
   #Cambiamos nombre cols y reordenamos:
   names(rp2)[c(1,5:10)] <- c("Fecha","Sub_espacio","Sub_subespacio","Descripcion", "Tiempo","HoraInicio","HoraFin")
   rp2 <- rp2[c("Mes","Semana","DdS","Fecha","TA","Actividad","Espacio","Sub_espacio","Sub_subespacio",
