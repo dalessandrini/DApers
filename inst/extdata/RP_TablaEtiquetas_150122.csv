@@ -212,6 +212,17 @@ Q2	Trabajo	FGR	Observatorio-PW	Documentacion	Trabajo-FGR
 Q2	Trabajo	FGR	Observatorio-PW	Informes	Trabajo-FGR		
 Q2	Trabajo	FGR	Observatorio-PW	Procesamiento	Trabajo-FGR		
 Q2	Trabajo	FGR	Observatorio-PW	Reuniones	Trabajo-FGR		
+Q2	Trabajo	FGR	(proyecto)	Diseño	Trabajo-FGR		
+Q2	Trabajo	FGR	(proyecto)	Documentacion	Trabajo-FGR		
+Q2	Trabajo	FGR	(proyecto)	Informes	Trabajo-FGR		
+Q2	Trabajo	FGR	(proyecto)	Procesamiento	Trabajo-FGR		
+Q2	Trabajo	FGR	(proyecto)	Reuniones	Trabajo-FGR		
+Q2	Trabajo	FGR	ACUy	HorasTotales	Trabajo-FGR	TRFG-ACUy	
+Q2	Trabajo	FGR	Observatorio-PW	HorasTotales	Trabajo-FGR	TRFG-PW	
+Q2	Trabajo	FGR	(varios)	HorasTotales	Trabajo-FGR	TRFG-Cortos	
+Q2	Trabajo	FGR	SVD	HorasTotales	Trabajo-FGR	TRFG-SVD	
+Q2	Trabajo	FGR	PSV	HorasTotales	Trabajo-FGR	TRFG-PSV	
+Q2	Trabajo	FGR	DSSV	HorasTotales	Trabajo-FGR	TRFG-DSSV	
 Q2	Trabajo	FGR	(proyecto)	Campo	Trabajo-FGR		
 Q2	Trabajo	FGR	(proyecto)	Diseño	Trabajo-FGR		
 Q2	Trabajo	FGR	(proyecto)	Documentacion	Trabajo-FGR		
@@ -232,7 +243,8 @@ Q2	Trabajo	NoFacturable	DatosAbiertos	FISEVI	Trabajo-NoFacturable	TNF-DAb
 Q2	Trabajo	NoFacturable	DatosAbiertos	(otros)	Trabajo-NoFacturable		
 Q2	Trabajo	NoFacturable	IPMC	AR02-ACUy	Trabajo-NoFacturable		
 Q2	Trabajo	NoFacturable	IPMC	(otraInvest)	Trabajo-NoFacturable		
-Q2	Trabajo	NoFacturable	(otro)	(otros)	Trabajo-NoFacturable		
+Q2	Trabajo	NoFacturable	Elecciones	MueNoRepr	Trabajo-NoFacturable	TNF-MNR	
+Q2	Trabajo	NoFacturable	(otro)	(otros)	Trabajo-NoFacturable	TRNF	
 Q2	Trabajo	UEFI	0.Invest-HsMae	AER	Trabajo-UEFI		
 Q2	Trabajo	UEFI	0.Invest-HsMae	Bibliografia	Trabajo-UEFI		
 Q2	Trabajo	UEFI	0.Invest-HsMae	Administrativos	Trabajo-UEFI		
@@ -295,6 +307,7 @@ Q2	Trabajo	UEFI	PL-Moebius	Desconocido	Trabajo-UEFI
 Q2	Trabajo	UEFI	PL-Moebius	Informes	Trabajo-UEFI		
 Q2	Trabajo	UEFI	PL-Moebius	Documentacion	Trabajo-UEFI		
 Q2	Trabajo	UEFI	General	HorasTotales	Trabajo-UEFI	TRUE-Gral	
+Q2	Trabajo	IM	General	HorasTotales	Trabajo-IM	TRIM	
 Q2	Transporte	Traslado	Local	Auto Particular	Transporte	Trp-Priv	
 Q2	Transporte	Traslado	Local	Bus	Transporte	Trp-Bus	
 Q2	Transporte	Traslado	Local	Taxi	Transporte	Trp-Taxi	
