@@ -36,9 +36,14 @@ Ya te dije (pedazo de un vejiga) que _ANTES_ de hacer nada, tenés que agarrar e
 Uso `importar_tt()` para crear archivo limpio TT para seguir formateando
 
 ```{r}
+# Archivo 2020
 tt20 <- importar_tt("../../../Casa/Personales/Personales/Vigente/Registros/tt2020_xiaomi_1703-3112_corregido.csv")
 #tt20 <- importar_tt("../../Casa/Personales/Personales/Vigente/Registros/tt2020_xiaomi_1703-3112_corregido.csv")
-head(tt20)
+#head(tt20)
+
+# Archivo 2021
+tt21 <- importar_tt("../../../Casa/Personales/Personales/Vigente/Registros/tt2021_full_xiaomi_corregido.csv",encoding="UTF-8")
+
 ```
 
 
@@ -47,21 +52,39 @@ head(tt20)
 Con archivo TT mejorado en R, hacer este paso previo a convertirlo a formato TS
 
 ```{r}
+# Archivo 2020
 tt20ok <- hms_fch(tt20,formatoFecha='%d/%m/%y',formatoTS=2,exportar=FALSE) #'%d/%m/%Y'
 #head(tt20ok)
+
+# Archivo 2021
+tt21ok <- hms_fch(tt21,formatoFecha='%d/%m/%y',formatoTS=2,exportar=FALSE) #
 ```
 
 
 ## Paso 4 
 
-Uso `etiq_rp()` para crear archivo TS (pronto para crear archivo *RP20xx*), levantando previamente las etiquetas vigentes para establecer equivalencia entre TS y TT
+Uso `etiq_rp()` para crear archivo TS (pronto para crear archivo **RP20xx**), levantando previamente las etiquetas vigentes para establecer equivalencia entre TS y TT. _Atento_: pueden faltar etiquetas muy nuevas; editar salidas de `hms_fch()` a mano
 
 ```{r}
-etiq <- read.delim("../inst/extdata/RP_TablaEtiquetas_140122.csv")
+etiq <- read.delim("../inst/extdata/RP_TablaEtiquetas_150122.csv",fileEncoding="UTF-8")
+
+# Archivo 2020
 ts20 <- etiq_rp(tt20ok,tablaEtiq=etiq,nombre="rp2020nueva") 
 #Pa que veas como queda...
 head(ts20,n=20)
 
+# Archivo 2019
+tt19ok <- read.delim("../../../Casa/Personales/Personales/Vigente/Registros/tt2019ok_etiq_rp.txt",dec=",")
+ts19 <- etiq_rp(tt19ok,tablaEtiq=etiq,nombre="rp2019nueva")
+
+# Archivo 2021
+ts21 <- etiq_rp(tt21ok,tablaEtiq=etiq,nombre="rp2021nueva")
+
+
 ```
 
+
+## Paso 5: tenemos RP
+
+Usar archivo de salida de `etiq_rp()`, cambiar etiquetas adecuadamente, modificar errores y subir este a planilla Drive
 
